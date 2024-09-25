@@ -1,0 +1,99 @@
+PART II - PARTICULAR OBLIGATIONS AND REQUIREMENTS  | EMPLOYER’S REQUIREMENTS  | WORKS INFORMATION  | 3 ROOM DATA SHEETS
+RDS Ref. No. 8610-04.02.18  Sheet 1 of 3
+Project Title: | Joint-user Complex with Market in Area 67, Tseung Kwan O | Room Data Sheet (RDS) Ref. : | 8610-04.02.18
+PWP No | 3197GK | InForM No. | 8610 | Schedule of Accom. (SoA) Ref: | 04.02.18
+Department | DH - Maternal and Child Health Centre | Date | 10/28/2022 | Revision | 1
+Room/Space | Cervical Screening Room
+This Room Data Sheet (RDS) was authorized by the User Department to be completed by:
+Name | Rachael CHEUNG | Post | AM2(FHS) | Tel | 3796 0807
+Please read the Guidance Notes for Room Data Sheet in conjunction with this RDS.
+A. General Section 
+A.1 | Net operational floor area (NOFA) | 14 sq.m
+A.2 | Clear room height | Non-standard - 2600mm
+A.3 | Critical room dimension | N/A
+A.4 | Operation hours | Standard - 8:00 to 18:00
+A.5 | No. of occupants (staff and public) | Normal - 3                    At Peak Time - 5
+A.6 | Sound proofing requirement | Not Required
+A.7 | Security requirement | N/A
+B. Technical Section
+B.1 Finishes       (DO NOT fill in this section if the room is a normal office space)
+B.1.1 | Ceiling | With false ceiling
+B.1.2 | Walls | Emulsion Paint
+B.1.3 | Skirting | Vinyl
+B.1.4 | Floor | Vinyl
+B.1.5 | Others
+Ceiling: Modular aluminum ceiling with perforation and acoustic treatment | Wall: Anti-mould, washable acrylic paint | Skirting: Self-coving skirting of vinyl sheet with aluminium strip capping | Floor: 2.5mm  thick (min.) vinyl sheet with slip resistance value of R10 minimum
+B.2 Door
+B.2.1 | Door leaf(s) | single leaf (850mm wide)
+B.2.3 | Door closer | Required
+B.2.4 | Red engage light | Required
+B.2.6 | Other features
+Swinging Door, self-door closer with sliding arm, door stopper, acoustic sealing, mail box/ pigeon hole for transferiing records for privacy protection
+B.2.7 | Special Ironmongeries
+mortise lock with lever handle
+B.3 Build-in Fixture
+B.3.2 | Magnetic white board | 1 | No(s)
+B.3.5 | Window blinds | Required
+venetian blinds (for general office)
+B.3.7 | Others
+a. Windows openable having safety device, for curtain wall, the openable window should not be opened for more than 10 degree, b. curtain track with  | fixed divider for patient's bed. c. paper towel dispener x 1. d. 450x750mm mirror above hand-wash basin.
+B.4 Build-in Furniture
+B.4.1 | Cabinets | [unit size: 600 mm(L) x 1000 mm(W) x 2600 mm(H), 1 nos.]
+B.4.6 | Others, please specify
+a. Floor cupboard 600mm L x 1000mm W. x 1000mm H. x 1
+B.6 Plumbing
+B.6.1 | Wash basin with water tap | 1 | Set(s) | Porcelain | Individual cold & hot water supply
+Tap: | Automatic
+B.6.3 | Others, please specify
+a. User should be able to control water temperature by the faucet (reference at Kung Tong MCHC project) or reachable Thermostatic Mixing Valve.   | b. Automatic soap dispenser x 1.
+B.7 Drainage 
+B.7.2 | Others, please specify
+For drainage of hand-wash basin
+B.8 MVAC Installations
+B.8.1 | Air Conditioning  (only if approved in SoA) | Required
+B.8.1.1 | Type of air-conditioning system | Special A/C with specific temperature & relative humidity for special  | functional area
+Justification and requirement: | clinical area; 21 to 24 oC and 60%+/- 10% RH; with individual  | thermostat and A/C control
+B.8.1.2 | Special requirements with justification
+B.8.1.2.1 | Recycling of air | Permitted
+Justification | 6 ACH, at least 2 ACH of pretreated outdoor air
+Justification | No A/C supply air grille directly above user's seat and patient's bed.
+B.8.2 | Hours of A/C operation | from 08:00 to 18:00
+B.9 Electrical Installations
+B.9.1 | Lighting installation
+B.9.1.1 | Lighting level | 500 | lux | Lighting Standard: | CIBSE
+B.9.1.2 | Type of lighting installation | Uniform illuminance general lighting
+B.9.1.3 | Special lighting
+Justification | a. light source above user's chair
+B.9.2.1 | 13A power socket for general use | 4 | nos
+B.9.2.2 | 13A essential supply socket | 2 | nos | Justification:
+Justification and requirements: | -N/A-
+B.9.3.1 | Computer LAN outlet | 4 | nos
+B.9.3.2 | 13A power socket for computer use | 4 | nos
+B.9.3.3 | 13A power socket with essential supply for computer use | 4 | nos
+Justification: | For CIMS
+B.9.4.1 | Telephone point (PABX) | 1 | nos
+B.9.5.1 | Electronic display system | Required
+Requirement | visual display system include LAN port & socket
+B.9.5.3 | Local public address system | Required | mic
+B.9.5.4 | Intercommunication system | Required
+B.9.6.3 | Panic Alarm | Required
+Type of panic alarm | push button
+Location: | near to user's desk
+Type of control panel | Central
+Panel Location:  | Main at Security Office, repeater at  | General Offic
+B.9.7.1 | Battery wall clock | 1 | nos
+B.12.2 | Special requirements
+a. Wall-mounted radiator x 2 include FPE socket x 2 and switches x 2
+b. Staff/nurse call x 1 to be installed at the end of patient's bed or near to working desk.  There is a call indicator outside 
+the room above the door.
+c. for B.9.5.1, VIdeo Display System includes LAN port x 1 and power point x 2
+d. Room Engagement Light button at user's desk and the REL outside the room above the door
+e. For B.9.3.1, 4 LAN ports are for CIMS x 2, CSIS x 1 and connection to printer at General Office x 1
+f. Examination lamp x 1 includes FPE power point x 1 
+g. The room should be near to "Waiting Area" for operational convenience.
+For F&E items procured and installed by user department, ArchSD/Contractor/Consultant should coordinate with users and 
+provide the required building services provisions for such F&E items including but not limited to power points, conduits 
+points, cable trunkings, fuse spur, etc.
+- ER/POR/3/4.2/117
+Page 117
+Contract No SS M504  | D&C of Joint-user Complex with Market  | in Area 67, TKO 

@@ -1,0 +1,117 @@
+{
+    "Project Title": "Joint-user Complex with Market in Area 67, Tseung Kwan O",
+    "Room Data Sheet (RDS) Ref.": "8610-04.02.18",
+    "PWP No": "3197GK",
+    "InForM No.": "8610",
+    "Schedule of Accom. (SoA) Ref": "04.02.18",
+    "Department": "DH - Maternal and Child Health Centre",
+    "Date": "10/28/2022",
+    "Revision": "1",
+    "Room/Space": "Cervical Screening Room",
+    "This Room Data Sheet (RDS) was authorized by the User Department to be completed by": {
+        "Name": "Rachael CHEUNG",
+        "Post": "AM2(FHS)",
+        "Tel": "3796 0807"
+    },
+    "General Section": {
+        "Net operational floor area (NOFA)": "14 sq.m",
+        "Clear room height": "Non-standard - 2600mm",
+        "Critical room dimension": "N/A",
+        "Operation hours": "Standard - 8:00 to 18:00",
+        "No. of occupants (staff and public)": "Normal - 3 At Peak Time - 5",
+        "Sound proofing requirement": "Not Required",
+        "Security requirement": "N/A"
+    },
+    "Technical Section": {
+        "Finishes (DO NOT fill in this section if the room is a normal office space)": {
+            "Ceiling": "With false ceiling",
+            "Walls": "Emulsion Paint",
+            "Skirting": "Vinyl",
+            "Floor": "Vinyl",
+            "Others": "Ceiling: Modular aluminum ceiling with perforation and acoustic treatment Wall: Anti-mould, washable acrylic paint Skirting: Self-coving skirting of vinyl sheet with aluminium strip capping Floor: 2.5mm  thick (min.) vinyl sheet with slip resistance value of R10 minimum"
+        },
+        "Door": {
+            "Door leaf(s)": "single leaf (850mm wide)",
+            "Door closer": "Required",
+            "Red engage light": "Required",
+            "Other features": "Swinging Door, self-door closer with sliding arm, door stopper, acoustic sealing, mail box/ pigeon hole for transferring records for privacy protection",
+            "Special Ironmongeries": "mortise lock with lever handle"
+        },
+        "Build-in Fixture": {
+            "Magnetic white board": "1 No(s)",
+            "Window blinds": "Required\nvenetian blinds (for general office)",
+            "Others": "a. Windows openable having safety device, for curtain wall, the openable window should not be opened for more than 10 degree, b. curtain track with  fixed divider for patient's bed. c. paper towel dispener x 1. d. 450x750mm mirror above hand-wash basin."
+        },
+        "Build-in Furniture": {
+            "Cabinets": "[unit size: 600 mm(L) x 1000 mm(W) x 2600 mm(H), 1 nos.]",      
+            "Others, please specify": "a. Floor cupboard 600mm L x 1000mm W. x 1000mm H. x 1"        
+        },
+        "Plumbing": {
+            "Wash basin with water tap": {
+                "VALUE": "1 Set(s) Porcelain Individual cold & hot water supply",
+                "Tap": "Automatic"
+            },
+        "Others, please specify": "a. User should be able to control water temperature by the faucet (reference at Kung Tong MCHC project) or reachable Thermostatic Mixing Valve.   b. Automatic soap dispenser x 1."
+        },
+        "Drainage": {
+            "Others, please specify": "For drainage of hand-wash basin"
+        },
+        "MVAC Installations": {
+            "Air Conditioning (only if approved in SoA)": {
+                "VALUE": "Required",
+                "Type of air-conditioning system": {
+                    "VALUE": "Special A/C with specific temperature & relative humidity for special functional area",
+                    "Justification and requirement": "clinical area; 21 to 24 oC and 60%+/- 10% RH; with individual thermostat and A/C control"
+                },
+                "Special requirements with justification": {
+                    "Recycling of air": {
+                        "VALUE": "Permitted",
+                        "Justification":"6 ACH, at least 2 ACH of pretreated outdoor air",
+                        "Justification2":"A/C supply air grille directly above user's seat and patient's bed"
+                    }
+                }
+            },
+            "Hours of A/C operation": "from 08:00 to 18:00"
+        },
+        "Electrical Installations": {
+            "Lighting installation": {
+                "Lighting level": {
+                    "VALUE": "500 lux",
+                    "Lighting Standard": "CIBSE"
+                    },
+                "Type of lighting installation": "Uniform illuminance general lighting",
+                "Special lighting": {
+                    "Justification": "a. light source above user's chair"
+                }
+            },
+            "13A power socket for general use": "4 nos",
+            "13A essential supply socket": {
+                "VALUE": "2 nos",
+                "Justification": "",
+                "Justification and requirements": "-N/A-"
+            },
+            "Computer LAN outlet": "4 nos",
+            "13A power socket for computer use": "4 nos",
+            "13A power socket with essential supply for computer use": {
+                "VALUE": "4 nos",
+                "Justification": "For CIMS"
+            },
+            "Telephone point (PABX)": "1 nos",
+            "Electronic display system": {
+                "VALUE": "Required",
+                "Requirement": "visual display system include LAN port & socket"
+            },
+            "Local public address system": "Required mic",
+            "Intercommunication system": "Required",
+            "Panic Alarm": {
+                "VALUE": "Required",
+                "Type of panic alarm": "push button",
+                "Location": "near to user's desk",
+                "Type of control panel": "Central",
+                "Panel Location": "Main at Security Office, repeater at General Offic"
+            },
+            "Battery wall clock": "1 nos"
+        },
+        "Special requirements": "a. Wall-mounted radiator x 2 include FPE socket x 2 and switches x 2\nb. Staff/nurse call x 1 to be installed at the end of patient's bed or near to working desk.  There is a call indicator outside \nthe room above the door.\nc. for B.9.5.1, VIdeo Display System includes LAN port x 1 and power point x 2\nd. Room Engagement Light button at user's desk and the REL outside the room above the door\ne. For B.9.3.1, 4 LAN ports are for CIMS x 2, CSIS x 1 and connection to printer at General Office x 1\nf. Examination lamp x 1 includes FPE power point x 1 \ng. The room should be near to \"Waiting Area\" for operational convenience.\nFor F&E items procured and installed by user department, ArchSD/Contractor/Consultant should coordinate with users and \nprovide the required building services provisions for such F&E items including but not limited to power points, conduits \npoints, cable trunkings, fuse spur, etc."
+    }
+}

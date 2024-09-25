@@ -9,6 +9,7 @@
     "buffer": "^6.0.3",
     "console": "^0.7.2",
     "fs": "^0.0.1-security",
+    "openai": "^4.63.0",
     "pdfjs-dist": "^4.6.82",
     "process": "^0.11.10",
     "react": "^18.3.1",
