@@ -18,8 +18,8 @@ function GenerateDataButton ({ textData, setJsonData }) {
 
       // establish connection to Azure OpenAI
       const client = new AzureOpenAI({ 
-        endpoint: "https://arup-hotdocs-uat-openai.openai.azure.com/", 
-        apiKey: "7eb24ca7b6da4db880bdb169d1b97a43", 
+        endpoint: "<api-endpoint>", 
+        apiKey: "<api-key>", 
         deployment: "gpt-4-32k", 
         apiVersion: "2024-06-01", 
         dangerouslyAllowBrowser: true 
